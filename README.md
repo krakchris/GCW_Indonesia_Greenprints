@@ -15,4 +15,4 @@ The work is presented in a jupyter notebook and can is broken apart in the follo
 * save data to csv and shapefiles
 
 
-![alt text](https://github.com/krakchris/GCW_ID_greenprints/blob/master/images/GCW--PNG_small.png)
+![alt text](https://github.com/krakchris/GCW_Indonesia_Greenprints/blob/master/images/GCW--PNG_small.png)
